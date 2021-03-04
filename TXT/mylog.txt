@@ -12,3 +12,5 @@ ZCZC W01 50 L21 VirtualBox: watched some tutorials, tried few commands and tried
 ZCZC W01 30 L22 YouTube: vim tutorial and ww2 histories
 ZCZC W01 90 L02 ZOOM related (QnA Session)
 ZCZC W01 30 L05 GSGS related: Pop Quiz
+ZCZC W01 30 L05 GSGS related: Assignment Week 1
+ZCZC W01 30 L21 VirtualBox: Create .bash_aliases and cloned github
