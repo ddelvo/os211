@@ -1,0 +1,10 @@
+title:      "Operating Systems 2021-1 (Semester Genap 2020/2021)"
+author:     "ddelvo"
+sitemap:    "true"
+urlweb:     "https://ddelvo.github.io/os211"
+urlghpage:  "https://ddelvo.github.io/os211"
+urlgithub:  "https://github.com/ddelvo/os211"
+keywords:   "jekyll, testing"
+plugins:
+    - jekyll-sitemap
+    - jekyll-seo-tag
