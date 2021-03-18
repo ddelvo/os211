@@ -24,3 +24,4 @@ ZCZC W02 30 L05 GSGS related: Pop Quiz Stuff
 ZCZC W03 100 L02 ZOOM related (Wednesday QnA Session)
 ZCZC W03 30 L05 GSGS Related: Pop Quiz Stuff
 ZCZC W03 60 L21 VirtualBox: Added Top 10 Links and Top 3 Rank
+ZCZC W03 15 L21 VirtualBox: Update myscript.sh and extract tarball
