@@ -14,7 +14,7 @@ ZCZC W01 90 L02 ZOOM related (QnA Session)
 ZCZC W01 30 L05 GSGS related: Pop Quiz
 ZCZC W01 30 L05 GSGS related: Assignment Week 1
 ZCZC W01 30 L21 VirtualBox: Created .bash_aliases and cloned github
-ZCZC W01 40 L05 GSGS related: Searching for top 10 Links and adding it to w01.md 
+ZCZC W01 40 L05 GSGS related: Searching for top 10 Links and adding it to w01.md
 ZCZC W02 90 L02 ZOOM related (QnA Session)
 ZCZC W02 30 L05 GSGS Related: Jekyll installation and tutorials
 ZCZC W02 30 L21 VirtualBox: Generate Public key and Checksum
@@ -38,5 +38,6 @@ ZCZC W06 30 L21 VirtualBox: Added Top 10 Links
 ZCZC W07 80 L02 Zoom telated: (Monday QnA Session)
 ZCZC W07 60 L21 VirtualBox: Finished W07 Reports
 ZCZC W07 60 L05 GSGS Related: Top 10 Links for week 7
-ZCZC W06 30 L21 VirtualBox: Added Top 10 Links
-
+ZCZC W07 30 L21 VirtualBox: Added Top 10 Links
+ZCZC W08 100 L02 Zoom telated: (Monday QnA Session)
+ZCZC W08 150 L21 VirtualBox: LFS 1-4 and added W08 Reports
