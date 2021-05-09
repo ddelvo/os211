@@ -41,3 +41,5 @@ ZCZC W07 60 L05 GSGS Related: Top 10 Links for week 7
 ZCZC W07 30 L21 VirtualBox: Added Top 10 Links
 ZCZC W08 100 L02 Zoom telated: (Monday QnA Session)
 ZCZC W08 150 L21 VirtualBox: LFS 1-4 and added W08 Reports
+ZCZC W08 90 L05 GSGS Related: Top 10 Links for week 10
+ZCZC W08 30 L21 VirtualBox: Added Top 10 Links
